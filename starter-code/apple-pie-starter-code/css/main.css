@@ -1,0 +1,56 @@
+Body{
+  margin-top: 30px;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+h1{
+  font-size: 4rem;
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.apple_pie{
+  width: 75%;
+  height:600px;
+  opacity: 1;
+}
+
+.context{
+  margin-left: 18rem;
+  margin-right: 18rem;
+  margin-bottom: 3rem;
+  font-size: 1.5rem;
+}
+
+.first_paragraph{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  text-align: justify;
+}
+
+.recipe_info{
+  height: 70px;
+  text-align: center;
+  position: relative;
+}
+
+.line_one {
+  margin-top:25px;
+  border: 1px solid black;
+}
+
+.line_two {
+  margin-top:80px;
+  border: 1px solid black;
+}
